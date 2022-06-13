@@ -1,0 +1,30 @@
+h1 {
+    font-size: 24px;
+    color: rgb(55, 95, 95);
+}
+
+caption, h2 {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(32, 68, 68);
+}
+
+ td {
+    border: 1px solid rgb(87, 86, 86);
+    width: 100px;
+ }
+
+ table {
+    border: 3px solid grey;
+    margin-top: 50px;
+ }
+
+ div {
+     margin-top: 50px;
+     margin-bottom: 50px;
+ }
+
+ li {
+     font-size: 16px;
+     color: rgb(64, 107, 107);
+ }
